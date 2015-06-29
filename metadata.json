@@ -1,0 +1,29 @@
+{
+  "author": "hkhan2",
+  "dependencies": [
+  	{"name":"hkhan2/ojdk7","version_requirement":">= 1.0.5 < 5.0.0"},
+  	{"name":"puppetlabs/stdlib","version_requirement":">= 4.6.0 < 10.0.0" }
+  ],
+  "license": "IBM",
+  "name": "hkhan2-ibmwasihs",
+  "operatingsystem_support": [
+  	{
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6"
+      ]
+    }
+  ],
+  "project_page": "https://github.com/hiranmoykhan/ibmwasihs/tree/master/trunk/ibmwasihs",
+  "requirements": [],
+  "source": "https://github.com/hiranmoykhan/ibmwasihs/tree/master/trunk/ibmwasihs",
+  "summary": "This module will install and configure IBMHTTPServer",
+  "tags": ["ibm","was","wcs","http","httpserver","IHS"],
+  "version": "0.1.17"
+}
